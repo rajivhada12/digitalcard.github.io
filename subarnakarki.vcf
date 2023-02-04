@@ -3,20 +3,18 @@ VERSION:3.0
 N:Karki;Subarna;;;
 FN:Subarna Karki
 ORG:Metahorizon Inc
-ADR;TYPE=WORK:1303 W Walnut Hill Ln #340, Irving, TX 75038
+ADR;TYPE=WORK:1303 W Walnut hill lane, Irving, TX, 75038
 TITLE:CEO
 TEL;TYPE=CELL:(405)209-0047
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
-EMAIL;TYPE=WORK:
+EMAIL;TYPE=WORK:sk@metahorizon.com
 URL;TYPE=Digital Business Card:
-URL:https://www.metahorizon.com/
-URL;TYPE=Website:https://www.metahorizon.com/
-URL;TYPE=Calendar:https://calendar.google.com/calendar/embed?src=subarna.karki%40metahorizon.com&ctz=America%2FChicago
+URL:
 URL;TYPE=Facebook:https://facebook.com/subarna.karki
-URL;TYPE=LinkedIn:https://www.linkedin.com/in/subarna-karki-sk/
+URL;TYPE=LinkedIn:https://linkedin.com/in/subarna-karki-sk/
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100318192
+UID:EnBizCard-100637709
 END:VCARD
